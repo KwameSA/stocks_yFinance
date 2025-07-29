@@ -1,6 +1,6 @@
 # 📊 Tech Company Stock Analysis (2021–2025)
 
-This project analyzes five years of stock data (2021–2025) from major tech companies — Apple, Microsoft, Dell, HP, and Sony — using Python and yfinance. It explores financial performance through daily returns, volatility, cumulative returns, moving averages, trading volume, and inter-stock correlation.
+This project analyzes five years of stock data (2021–2025) from major tech companies, Apple, Microsoft, Dell, HP, and Sony, using Python and yfinance. It explores financial performance through daily returns, volatility, cumulative returns, moving averages, trading volume, and inter-stock correlation.
 
 The goal is to compare long-term investment behaviors and performance patterns using data-driven techniques.
 
