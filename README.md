@@ -17,7 +17,7 @@ The goal is to compare long-term investment behaviors and performance patterns u
 
 ## 📂 Contents
 - `tech_companies.ipynb` – Main Jupyter notebook with full analysis and commentary
-- `daily_returns.csv`, `cumulative_returns.csv`, etc. – Exported datasets for Tableau (optional)
+- `daily_returns.csv`, `cumulative_returns.csv`
 - `README.md` – Project description and instructions
 
 
